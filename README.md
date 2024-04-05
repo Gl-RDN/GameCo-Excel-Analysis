@@ -30,4 +30,4 @@ Project brief and vgsales data set were provided by Career Foundry
 *Note: The provided analysis aims to empower GameCo with actionable insights for strategic decision-making in game development and marketing.*
 
 ## **Project Presentaion**
-  [GameCo_Presentation.pdf](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCo_Presentation.pdf)
+  - [GameCo_Presentation.pdf](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCo_Presentation.pdf)
