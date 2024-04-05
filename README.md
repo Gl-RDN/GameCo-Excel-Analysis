@@ -1,5 +1,5 @@
 # GameCo-Excel-Analysis
-**Project Overview: GameCo Descriptive Analysis**
+##Project Overview: GameCo Descriptive Analysis##
 
 **Objective:**
 As an analyst for GameCo, your task is to conduct a descriptive analysis of a global video game sales dataset. This analysis aims to provide insights that will inform the development of new games by understanding market trends and dynamics.
