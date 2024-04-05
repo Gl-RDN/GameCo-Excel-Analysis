@@ -24,8 +24,8 @@
 The dataset covers historical video game sales (units sold in millions) from 1980 to 2016, sourced from VGChartz. It encompasses various platforms, genres, and publishing studios, focusing on games that sold more than 10,000 copies.
 Project brief and vgsales data set were provided by Career Foundry
 
-  [GameCo_Project_Brief.pdf](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCo_Project_Brief.pdf)
-  [GameCo_vgsales.xlsx](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCO_vgsales_dataset.xlsx)
+  - [GameCo_Project_Brief.pdf](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCo_Project_Brief.pdf)
+  - [GameCo_vgsales.xlsx](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCO_vgsales_dataset.xlsx)
 
 *Note: The provided analysis aims to empower GameCo with actionable insights for strategic decision-making in game development and marketing.*
 
