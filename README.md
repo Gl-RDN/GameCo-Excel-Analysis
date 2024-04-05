@@ -31,3 +31,9 @@ Project brief and vgsales data set were provided by Career Foundry
 
 ## **Project Presentaion**
   - [GameCo_Presentation.pdf](https://github.com/Gl-RDN/GameCo-Excel-Analysis/blob/main/GameCo_Presentation.pdf)
+
+## **Slides answering Key Questions**
+
+![Slide3](https://github.com/Gl-RDN/GameCo-Excel-Analysis/assets/124837500/b5ff5d37-cf5d-4968-b665-dc2c693996ed)
+
+![Slide4](https://github.com/Gl-RDN/GameCo-Excel-Analysis/assets/124837500/97f7bc2e-3069-4823-a565-9e043a6936fc)
